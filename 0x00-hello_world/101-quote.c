@@ -1,3 +1,8 @@
+/*
+ * File: 101-quote.c
+ * Auth: ExcellenceOkeoma
+ */
+
 #include <unistd.h>
 
 /**
@@ -13,3 +18,4 @@ int main(void)
 	      59);
 
 	return (1);
+}
