@@ -4,9 +4,9 @@
 /**
  * main - entry point
  *
- * Description: prints the numbers 1 - 100 w/ 
- * mulitples of 3 print Fizz, multiples of 5 print Buzz,
- * and multiples of 3 and 5 print FizzBuzz
+ * Description: prints the numbers 1 - 100 w/
+ * Fizz for multiples of 3, Buzz for multiples of 5,
+ * and FizzBuzz for multiples of both
  *
  * Return: always 0
  */
