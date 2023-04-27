@@ -5,9 +5,8 @@
  * main - entry point
  *
  * Description: prints the numbers 1 - 100 
- * mulitples of 3: print Fizz
- * multiples of 5: print Buzz
- * multiples of 3 and 5: print FizzBuzz
+ * mulitples of 3 print Fizz, multiples of 5 print Buzz,
+ * and multiples of 3 and 5 print FizzBuzz
  *
  * Return: always 0
  */
