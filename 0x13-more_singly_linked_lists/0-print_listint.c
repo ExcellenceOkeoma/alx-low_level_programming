@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * print_listint - prints all the elements
+ * print_listint - prints all the elements in a listint_t list.
  *
- * @h: head of linklist node
+ * @h: head of pointer
  *
  * Return: the number of nodes
  *
